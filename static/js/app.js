@@ -60,7 +60,6 @@ function buildCharts(cat) {
 
     Plotly.newPlot("bubble", bubbleChart, layout2);
 
-    console.log(result);
   });
 }
 
